@@ -39,6 +39,8 @@ int main()
     }
     else
         on1=0;
+    
+    
     if(m==2)
     {
         if(on1&&d>29)//闰年且2月日期
